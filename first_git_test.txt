@@ -1,1 +1,1 @@
-create a new file.txt 
+create a new text file
